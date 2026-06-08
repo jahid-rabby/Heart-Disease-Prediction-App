@@ -23,3 +23,4 @@ This project predicts the likelihood of heart disease using a K-Nearest Neighbor
 pip install -r requirements.txt
 streamlit run app.py
 ```
+<img width="1901" height="945" alt="Interface" src="https://github.com/user-attachments/assets/d837c00e-c339-4069-a5bc-71673f0d322f" />
